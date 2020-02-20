@@ -1,24 +1,15 @@
- /*
-Copyright 2020 Whole Whale LLC
+___TERMS_OF_SERVICE___
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
 
-    http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-*/
 ___INFO___
-
 
 {
   "displayName": "Lighthouse by Whole Whale",
-  "categories":['ANALYTICS','DATA_WAREHOUSING', 'EMAIL_MARKETING', 'LEAD_GENERATION'],
   "description": "Aid in the installation of Lighthouse on your site through GTM",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -222,6 +213,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 2/20/2020, 2:44:25 PM
+Created on 2/20/2020, 3:10:51 PM
 
 

@@ -2,6 +2,7 @@
 
 {
   "displayName": "Lighthouse by Whole Whale",
+  "categories":['ANALYTICS','DATA_WAREHOUSING', 'EMAIL_MARKETING', 'LEAD_GENERATION'],
   "description": "Aid in the installation of Lighthouse on your site through GTM",
   "securityGroups": [],
   "id": "cvt_temp_public_id",

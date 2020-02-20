@@ -1,5 +1,5 @@
 homepage: "https://app.getlighthouse.io"
 documentation: "https://www.wholewhale.com/lighthouse"
 versions:
-  - sha: 7e00746f868a7cd6fed2ecdd8d82c672aca718dc
+  - sha: b94bbec9bdcdbc37919fe488a0359c936a06aec7
     changeNotes: Initial release.
